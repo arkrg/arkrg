@@ -1,17 +1,14 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=공%20사%20중%20&fontSize=90)
-</div>
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Navigating%20the%20SoC%20Universe%20&fontSize=60)
+<br><a>🛰️ jyng.kang@gmail.com</a>
+</div> 
 
 <div align="center">
-  <h3>subtitle</h3>
-</div>
-
-<div align="center">
-  <h3>🧑‍🚀 About Me</h3>
-</div>
-<p align="center">
-</p>
+  <h3>🧑‍🚀 I'm on a journey from Analog-Mixed IC Engineer to SoC Verification Engineer</h3>
+  <p align="center"> My experience in mixed-signal IC modeling and verification has given me a deep understanding of hardware and a broad perspective that spans both design and validation. Building on this foundation, I am currently focusing on the field of SoC verification using SystemVerilog and UVM.</p>
+  
+<br>  
 
 <div align="center">
   <h3>🛠️ Technical Skills</h3>
@@ -23,8 +20,10 @@
   <b>Operating Systems</b>: Linux, WSL (Windows Subsystem for Linux)
 </p>
 
+<br>
+  
 <div align="center">
-  <h3>🚀 Designed Circuits & IPs</h3>
+  <h3>🌌 Contributions</h3>
 </div>
 <p align="center">
   <b>UCIe</b> (Universal Chiplet Interconnect Express)<br>
@@ -35,16 +34,13 @@
 </p>
 
 <div align="center">
-  <h3>🔗 Contact & Community</h3>
+<img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=arkrg&card_width=400&short_numbers=true" alt="GitHub Streak" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkrg&layout=donut" alt="GitHub Stats" height="200"/>
+</div>
+<div align="center">
+  <h4> Check out my blog!</h4>
 </div>
 <p align="center">
-  <b>Blog</b>: <a href="https://arkrg.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/-EC4815.svg?style=flat-square&logo=tistory&logoColor=white"/> </a>
+  <a href="https://arkrg.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/-EC4815.svg?style=flat-square&logo=tistory&logoColor=white"/> </a>
   <br>
-  <b>Email</b>: <a href="mailto: jyng.kang@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> </a>
-
-  
-  
-  
-</p>
-
 
