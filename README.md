@@ -1,17 +1,24 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=공사중%20&fontSize=90)
-
-## Hi there 👋
-
-## Tech Stacks
-
-### SKILLS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-### OS
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 </div>
+
+### 👋
+
+---
+### Technical Skills
+- Languages & HDLs: Verilog, SystemVerilog, C, Python
+- EDA Tools & Simulators: Virtuoso, Xcelium, VCS, HSPICE, Spectre, FineSim, XMODEL
+- Verification Methodologies: UVM (Universal Verification Methodology)
+- Operating Systems: Linux, WSL (Windows Subsystem for Linux)
+---
+### Designed Circuits & IPs
+- UCIe (Universal Chiplet Interconnect Express)
+- CDR
+- ADC-DAC
+- TX Driver
+- UART
+---
+### 
 <!--
 **arkrg/arkrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
