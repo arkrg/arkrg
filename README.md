@@ -1,8 +1,7 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Navigating%20the%20SoC%20Universe%20&fontSize=60)
-<br><a>🛰️ jyng.kang@gmail.com</a>
-</div> 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Navigating%20the%20SoC%20Universe%20&fontSize=60)
+</div> <a align="center">🛰️ jyng.kang@gmail.com</a> 
 
 <div align="center">
   <h3>🧑‍🚀 I'm on a journey from Analog-Mixed IC Engineer to SoC Verification Engineer</h3>
@@ -19,20 +18,19 @@
   <b>Verification Methodologies</b>: UVM (Universal Verification Methodology)<br>
   <b>Operating Systems</b>: Linux, WSL (Windows Subsystem for Linux)
 </p>
-
-<br>
   
+<br>  
 <div align="center">
   <h3>🌌 Contributions</h3>
 </div>
 <p align="center">
-  <b>UCIe</b> (Universal Chiplet Interconnect Express)<br>
-  <b>TX Driver</b> <br>
-  <b>CDR</b> <br>
-  <b>ADC/DAC</b> <br>
-  <b>UART</b> <br>
+    <b>UCIe</b>: Behavioral modeling for system-level simulation<br>
+    <b>TX Driver</b>: Modeling and verification for custom SoC implementation<br>
+    <b>CDR</b>: Modeling and verification for functional correctness<br>
+    <b>ADC/DAC</b>: Modeling and verification of mixed-signal behavior<br>
+    <b>UART</b>: Synthesizable RTL design and verification<br>
 </p>
-
+<br>
 <div align="center">
 <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=arkrg&card_width=400&short_numbers=true" alt="GitHub Streak" height="220"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkrg&layout=donut" alt="GitHub Stats" height="200"/>
