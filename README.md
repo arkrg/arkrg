@@ -40,7 +40,7 @@
 <p align="center">
   <b>Blog</b>: <a href="https://arkrg.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/-EC4815.svg?style=flat-square&logo=tistory&logoColor=white"/> </a>
   <br>
-  <b>Email</b>: <a href="mailto:jyng.kang@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> </a>
+  <b>Email</b>: <a href="mailto: jyng.kang@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> </a>
 
   
   
